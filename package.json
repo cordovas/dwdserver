@@ -1,0 +1,33 @@
+{
+  "name": "nodejsproject",
+  "version": "0.0.0",
+  "description": "Homework 1",
+  "main": "web.js",
+  "scripts": {
+    "test": "https://github.com/cordovas/dwdserver.git",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cordovas/dwdserver.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Steve Cordova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cordovas/dwdserver/issues"
+  },
+  "homepage": "https://github.com/cordovas/dwdserver",
+  "dependencies": {
+    "express": "^4.0.0",
+    "logfmt": "^1.1.2"
+  }
+}
+
+{
+  "engines": {
+    "node": "0.10.x"
+  }
+}
